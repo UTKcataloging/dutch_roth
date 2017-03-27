@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">0012_002328_003466</identifier>
+   <titleInfo>
+      <title>Untitled landscape (Negative 795)</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated>August 19, 1930</dateCreated>
+   </originInfo>
+   <note>Box 66 (circa 1940-1971): Box 63 (Folders 65-189)\u2013Box 67 contains negatives removed from loose envelopes. The titles were taken from the original envelopes, except those beginning with \untitled,\ which were given a descriptive title. Photographs accompanied some of the negatives, which were removed and placed in flat boxes: Box 68 folders 25-39, Box 69 folders 1-40, and Box 70 folders 1-22.</note>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Series IV: Digitized Materials, 1913-3804. Sub-Series A: A. G. Dutch Roth Negatives and Prints, 1913-3792</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>A. G. \Dutch\ and Margaret Ann  Roth  Papers</title>
+      </titleInfo>
+      <identifier>MS.3334</identifier>
+   </relatedItem>
+   <physicalDescription>
+      <extent>5.5 inches x 3.5 inches</extent>
+   </physicalDescription>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographic)</form>
+   </physicalDescription>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Albert "Dutch" Roth Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <name>
+      <namePart>Roth, Albert, 1890-1974</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht.html">Photographer</roleTerm>
+      </role>
+   </name>
+</mods>
