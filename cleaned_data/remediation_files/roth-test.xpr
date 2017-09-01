@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="18.0">
+<project version="19.0">
     <meta>
-        <filters directoryPatterns="" filePatterns="roth.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <filters directoryPatterns="" filePatterns="roth-test.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options/>
     </meta>
-    <projectTree name="roth.xpr">
-        <folder path="../test"/>
+    <projectTree name="roth-test.xpr">
+        <folder path="../mods_by_pid/"/>
+        <folder path="."/>
+        <file name="rights_fixer.xsl"/>
     </projectTree>
 </project>
