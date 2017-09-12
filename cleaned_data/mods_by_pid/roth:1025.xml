@@ -3,7 +3,10 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
    <identifier type="filename">0012_002328_001016</identifier>
    <titleInfo>
       <title>620 - Road Prong and Chimneys</title>
@@ -13,7 +16,7 @@
    </originInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-   <relatedItem type="series">
+   <relatedItem type="series" displayLabel="Project">
       <titleInfo>
          <title>Series I: A. G. Dutch Roth Photographs and Other Materials, circa 1880s-1985 (bulk circa 1880s-1960). Sub-Series A: Photographs, 1916 May 24-1960 March 642</title>
       </titleInfo>
@@ -46,4 +49,16 @@
                    valueURI="http://id.loc.gov/vocabulary/relators/pht.html">Photographer</roleTerm>
       </role>
    </name>
+   <titleInfo supplied="yes">
+      <title>Waterfall on Road Prong</title>
+   </titleInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <subject>
+      <geographic>Road Prong</geographic>
+   </subject>
+   <subject>
+      <topic>waterfalls</topic>
+   </subject>
 </mods>
