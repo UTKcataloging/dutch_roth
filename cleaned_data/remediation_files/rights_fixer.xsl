@@ -34,6 +34,9 @@
         <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
     </xsl:template>
     <xsl:template match="mods[not(accessCondition[text()])]">
-        <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+        <xsl:copy>
+            <xsl:apply-templates select="@*|node()"/>
+            <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+        </xsl:copy>
     </xsl:template>
 </xsl:stylesheet>
