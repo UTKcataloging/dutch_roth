@@ -30,7 +30,10 @@
     </xsl:template>
     
     <!-- apply rights statements.org -->
-    <xsl:template match="accessCondition">
+    <xsl:template match="accessCondition[text()]">
+        <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+    </xsl:template>
+    <xsl:template match="mods[not(accessCondition[text()])]">
         <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
     </xsl:template>
 </xsl:stylesheet>
