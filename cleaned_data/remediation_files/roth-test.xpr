@@ -6,6 +6,7 @@
     </meta>
     <projectTree name="roth-test.xpr">
         <folder path="../mods_by_pid/"/>
+        <folder path="../mods_by_pid2/"/>
         <folder path="."/>
         <file name="rights_fixer.xsl"/>
     </projectTree>
