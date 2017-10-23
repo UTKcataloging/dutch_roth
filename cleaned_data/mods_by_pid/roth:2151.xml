@@ -3,15 +3,19 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
    <identifier type="filename">0012_002328_002142</identifier>
    <titleInfo>
       <title>Inverness [Florida]</title>
    </titleInfo>
+   <note displayLabel="Transcribed from Original Collection">Inverness [Florida]</note>
    <originInfo>
       <dateCreated>October 17-24, 1958</dateCreated>
    </originInfo>
-   <relatedItem type="series">
+   <relatedItem type="series" displayLabel="Project">
       <titleInfo>
          <title>Series IV: Digitized Materials, 1913-2454. Sub-Series A: A. G. Dutch Roth Negatives and Prints, 1913-2442</title>
       </titleInfo>
@@ -53,4 +57,16 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <titleInfo supplied="yes">
+      <title>Inverness, Florida</title>
+   </titleInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <subject>
+      <name authority="geonames"
+            valueURI="http://sws.geonames.org/4159786/about.rdf">
+         <namePart>Inverness</namePart>
+      </name>
+   </subject>
 </mods>

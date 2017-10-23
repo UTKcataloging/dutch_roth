@@ -7,60 +7,63 @@
       xmlns:mods="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
-  <identifier type="filename">0012_002328_001030</identifier>
-  <titleInfo>
+   <identifier type="filename">0012_002328_001030</identifier>
+   <titleInfo>
       <title>624 - Old Bald and Richland Balsam</title>
-  </titleInfo>
-  <originInfo>
+   </titleInfo>
+   <note displayLabel="Transcribed from Original Collection">624 - Old Bald and Richland Balsam</note>
+   <originInfo>
       <dateCreated>June 10-11, 1950</dateCreated>
-  </originInfo>
-  <accessCondition type="use and reproduction"
+   </originInfo>
+   <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-  <relatedItem type="series" displayLabel="Project">
+   <relatedItem type="series" displayLabel="Project">
       <titleInfo>
          <title>Series I: A. G. Dutch Roth Photographs and Other Materials, circa 1880s-1985 (bulk circa 1880s-1960). Sub-Series A: Photographs, 1916 May 24-1960 March 656</title>
       </titleInfo>
-  </relatedItem>
-  <relatedItem displayLabel="Collection" type="host">
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>A. G. "Dutch" and Margaret Ann  Roth  Papers</title>
       </titleInfo>
       <identifier>MS.3334</identifier>
-  </relatedItem>
-  <physicalDescription>
+   </relatedItem>
+   <physicalDescription>
       <extent>5.5 inches x 3.5 inches</extent>
-  </physicalDescription>
-  <physicalDescription>
+   </physicalDescription>
+   <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
-  </physicalDescription>
-  <relatedItem displayLabel="Project" type="host">
+   </physicalDescription>
+   <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Albert "Dutch" Roth Photograph Collection</title>
       </titleInfo>
-  </relatedItem>
-  <location>
+   </relatedItem>
+   <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
-  </location>
-  <name>
+   </location>
+   <name>
       <namePart>Roth, Albert, 1890-1974</namePart>
       <role>
          <roleTerm type="text"
                    authority="marcrelators"
                    valueURI="http://id.loc.gov/vocabulary/relators/pht.html">Photographer</roleTerm>
       </role>
-  </name>
-  <titleInfo supplied="yes">
+   </name>
+   <titleInfo supplied="yes">
       <title>Richland Balsam</title>
-  </titleInfo>
-  <language>
+   </titleInfo>
+   <language>
       <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
-  </language>
-  <subject>
-      <geographic>Nantahala National Forest</geographic>
-  </subject>
-  <subject>
-      <geographic>Richland Balsam</geographic>
-  </subject>
+   </language>
+   <subject>
+      <geographic authority="geonames"
+                  valueURI="http://sws.geonames.org/7522502/about.rdf">Nantahala National Forest</geographic>
+   </subject>
+   <subject>
+      <geographic authority="geonames"
+                  valueURI="http://sws.geonames.org/4487916/about.rdf">Richland Balsam</geographic>
+   </subject>
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>

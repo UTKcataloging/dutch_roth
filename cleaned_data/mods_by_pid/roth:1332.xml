@@ -3,15 +3,19 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
    <identifier type="filename">0012_002328_001323</identifier>
    <titleInfo>
       <title>652 - Special. LeConte</title>
    </titleInfo>
+   <note displayLabel="Transcribed from Original Collection">652 - Special. LeConte</note>
    <originInfo>
       <dateCreated>July 7, 1951</dateCreated>
    </originInfo>
-   <relatedItem type="series">
+   <relatedItem type="series" displayLabel="Project">
       <titleInfo>
          <title>Series I: A. G. Dutch Roth Photographs and Other Materials, circa 1880s-1985 (bulk circa 1880s-1960). Sub-Series A: Photographs, 1916 May 24-1960 March 960</title>
       </titleInfo>
@@ -53,4 +57,22 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <titleInfo supplied="yes">
+      <title>View of Sugarland Mountain from Cliff Top on Mount Le Conte</title>
+   </titleInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <subject>
+      <geographic>Cliff Top</geographic>
+   </subject>
+   <subject>
+      <geographic>Mount Le Conte</geographic>
+   </subject>
+   <subject>
+      <geographic>Sugarland Mountain</geographic>
+   </subject>
+   <subject>
+      <geographic>Great Smoky Mountains</geographic>
+   </subject>
 </mods>

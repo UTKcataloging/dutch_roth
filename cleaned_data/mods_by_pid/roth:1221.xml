@@ -3,17 +3,21 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
    <identifier type="filename">0012_002328_001212</identifier>
    <titleInfo>
       <title>638 - Emert Cove and Ad Hooks cabin</title>
    </titleInfo>
+   <note displayLabel="Transcribed from Original Collection">638 - Emert Cove and Ad Hooks cabin</note>
    <originInfo>
       <dateCreated>February 11, 1951</dateCreated>
    </originInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-   <relatedItem type="series">
+   <relatedItem type="series" displayLabel="Project">
       <titleInfo>
          <title>Series I: A. G. Dutch Roth Photographs and Other Materials, circa 1880s-1985 (bulk circa 1880s-1960). Sub-Series A: Photographs, 1916 May 24-1960 March 846</title>
       </titleInfo>
@@ -53,4 +57,18 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <titleInfo supplied="yes">
+      <title>Emerts Cove</title>
+   </titleInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <subject>
+      <geographic authority="geonames"
+                  valueURI="http://sws.geonames.org/4620919/about.rdf">Emerts Cove</geographic>
+   </subject>
+   <subject>
+      <geographic authority="geonames"
+                  valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic>
+   </subject>
 </mods>
