@@ -28,12 +28,6 @@
       </titleInfo>
       <identifier>MS.3334</identifier>
    </relatedItem>
-   <physicalDescription>
-      <extent>5.5 inches x 3.5 inches</extent>
-   </physicalDescription>
-   <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
-   </physicalDescription>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Albert "Dutch" Roth Photograph Collection</title>
@@ -79,4 +73,8 @@
       <geographic authority="geonames"
                   valueURI="http://sws.geonames.org/4601942/about.rdf">Abrams Creek</geographic>
    </subject>
+   <physicalDescription>
+      <extent>5.5 inches x 3.5 inches</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
+   </physicalDescription>
 </mods>
