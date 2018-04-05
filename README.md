@@ -1,6 +1,6 @@
 # Albert "Dutch" Roth XML
 
-This repo contains metadata for Roth phases I and II. Phase I goes from 0012_002328_000001 to 0012_002328_005814. Phase II covers 0012_002328_005814 to 0012_002328_007768.
+This repo contains metadata for Roth phases I and II. The Phase I folder goes from 0012_002328_000001 to 0012_002328_005814. Phase II covers 0012_002328_005814 to 0012_002328_007768. Note that this range differs on Islandora. Some items from Phase II were uploaded to Islandora with phase I. The overlap goes from 0012_002328_005708 to 0012_002328_005814.
 
 ## Repo strucutre
 
